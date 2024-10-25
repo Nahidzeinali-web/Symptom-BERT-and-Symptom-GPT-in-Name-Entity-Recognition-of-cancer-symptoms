@@ -17,3 +17,4 @@ Symptom-GPT, a GPT-based counterpart to Symptom-BERT, is fine-tuned similarly to
 
 Contact:
 For inquiries, please reach out to Nahid Zeinali at Nahid-Zeinali@uiowa.edu.
+

@@ -1,6 +1,7 @@
 BERT & GPT Named Entity Recognition for Nausea/Vomiting & Anxiety Detection
 
-Project Overview
+Project Overview:
+
 This project aims to develop and refine Named Entity Recognition (NER) models using BERT and GPT architectures to identify specific terms related to nausea/vomiting and anxiety in clinical notes. By building on Bio-clinical BERT and Bio-GPT, the project introduces models tailored for extracting these symptoms in electronic health records (EHRs). The goal is to enhance the accuracy of symptom detection for improved patient care and monitoring.
 
 
